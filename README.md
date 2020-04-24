@@ -2,6 +2,8 @@
 This is Desktop application and it is work as like Google assistant this application totally work on speech that mean user say something and  it’s work according to user 
 Dowmload All modules and  Requirement of this project.
 ========================================================================================================================================
+pip install requirement*txt.
+================================================================
 import pyttsx3                                                 |
 ================================================================
 import pygame                                                  |
