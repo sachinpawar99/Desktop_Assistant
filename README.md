@@ -1,2 +1,42 @@
-# Desktop_Assistant
-This is Desktop application and it is work as like Google  assistant this application totally work on speech that mean user say something and  it’s work according to user 
+# Desktop-Assistant
+This is Desktop application and it is work as like Google assistant this application totally work on speech that mean user say something and  it’s work according to user 
+Dowmload All modules and  Requirement of this project.
+========================================================================================================================================
+import pyttsx3                                                 |
+================================================================
+import pygame                                                  |
+================================================================
+import webbrowser                                              |
+================================================================
+import smtplib                                                 |
+================================================================
+import random                                                  |
+================================================================
+import speech_recognition as sr                                |
+================================================================
+import wikipedia                                               |
+================================================================
+import datetime                                                |
+================================================================
+import wolframalpha                                            |
+================================================================
+import os                                                      |
+================================================================
+import sys                                                     |
+================================================================
+import requests                                                |
+================================================================
+import urllib                                                  |
+================================================================
+from PyDictionary import PyDictionary                          |
+================================================================
+from nltk.corpus import wordnet                                |
+================================================================
+import ety                                                     |
+================================================================
+from googlesearch import *                                     |
+================================================================
+import feedparser                                              |
+================================================================
+import pywinauto                                               |
+================================================================
